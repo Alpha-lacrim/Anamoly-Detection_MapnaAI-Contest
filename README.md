@@ -14,6 +14,6 @@ The task is to detect anomalies in a given dataset. The workflow includes:
 ## ⚙️ Installation
 Clone the repository and install the required dependencies:
 ```bash
-git clone <your-repo-url>
-cd <your-repo>
+git clone https://github.com/Alpha-lacrim/Anamoly-Detection_MapnaAI-Contest)
+cd https://github.com/Alpha-lacrim/Anamoly-Detection_MapnaAI-Contest)
 pip install -r requirements.txt
